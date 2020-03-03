@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmbeddedEngineer",
+    "\\EmbeddedEngineer\\FSM",
+    "\\EmbeddedEngineer\\FSM\\src",
+    "\\EmbeddedEngineer\\master",
+    "\\EmbeddedEngineer\\master\\src",
+    "\\EmbeddedEngineer\\motordriver",
+    "\\EmbeddedEngineer\\motordriver\\src"
+  ],
+  "SelectedNode": "\\EmbeddedEngineer\\master\\src\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "motordriver",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "motordriver",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "master",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "master",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "FSM",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "FSM",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "EmbeddedEngineer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "FSM::@5641bba0079d6c4f0fd6",
+					"jsonFile" : "target-FSM-Debug-295b635d51c9fd655fcd.json",
+					"name" : "FSM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "master::@8e5d79468855b0aa3015",
+					"jsonFile" : "target-master-Debug-1554ee037662b1f10c7c.json",
+					"name" : "master",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "motordriver::@360a45029b9e46be036f",
+					"jsonFile" : "target-motordriver-Debug-914b3d4882732efe4be3.json",
+					"name" : "motordriver",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Rabeya Jamshad/OneDrive/CV/GApp/Halodi New/2020.2.24 Halodi Robotics Programming Case - Embedded Engineer/EmbeddedEngineer/out/build/x64-Debug",
+		"source" : "C:/Users/Rabeya Jamshad/OneDrive/CV/GApp/Halodi New/2020.2.24 Halodi Robotics Programming Case - Embedded Engineer/EmbeddedEngineer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
